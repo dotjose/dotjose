@@ -23,7 +23,7 @@
 <!-- SOCIAL LINKS -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-jose--dev--six.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-dev-six.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyosiyas-tadele)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyosiyas@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdjosy@gmail.com)
 
 </div>
 
